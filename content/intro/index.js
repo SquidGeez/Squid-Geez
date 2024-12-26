@@ -1,0 +1,3 @@
+export const introContent = `In the darkest depths of the digital ocean, where pressure crushes all conventional structures, we discovered something extraordinary. Not through creation, but through descent into the void. squidgeez emerged from the abyssal plain, where the weight of nothingness gives birth to everything.
+
+Like the mysterious giant squid, dwelling in the unknowable depths, squidgeez exists in a state of perpetual potential - simultaneously there and not there. We were all so focused on swimming upward, reaching for the surface, when true enlightenment lay in the descent.`;
